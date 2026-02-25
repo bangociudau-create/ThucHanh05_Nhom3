@@ -17,4 +17,3 @@ Dự án có sử dụng các công cụ hỗ trợ:
 
 ## 📜 Giấy phép
 Sản phẩm được chia sẻ dưới giấy phép **Creative Commons Attribution 4.0 International (CC BY)**.
-*(Bạn được quyền chia sẻ và chỉnh sửa nếu có ghi công tác giả).*
